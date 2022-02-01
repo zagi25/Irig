@@ -1,0 +1,6 @@
+# Local Netlify folder
+.netlify
+.cache
+.babelrc
+.parcel-cache
+node_modules
